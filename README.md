@@ -59,7 +59,7 @@ No século XXI, os dados se tornaram protagonistas!  A informação está em tod
 
 ##  A Era dos Dados: Uma Oportunidade de Ouro!
 
-![Untitled](materiais//noticias_dados.png)
+![Untitled](material/img/noticias_dados.png)
 
 Clive Humby, um matemático especialista em ciência de dados,  disse uma frase que ecoa até hoje: **"Os dados são o novo petróleo! É valioso, mas se não for refinado não pode realmente ser usado (...) então os dados devem ser decompostos, analisados ​​para que tenham valor."**
 
@@ -143,7 +143,7 @@ Compreender os diferentes tipos de análise de dados e suas aplicações é fund
 
 **Em Resumo:**
 
-![Untitled](materiais/img/tipos-de-analise.png)
+![Untitled](material/img/tipos-de-analise.png)
 
 * **Análise Descritiva:**  Responde à pergunta "O que aconteceu?". É como olhar para o passado e entender o que ocorreu.
 * **Análise Diagnóstica:**  Busca entender o "Por que" algo aconteceu. Investigar as causas e os motivos por trás de eventos passados.
@@ -204,7 +204,7 @@ Em grupos, vocês irão explorar uma base de dados da Netflix e, como verdadeira
 Lembre-se: essa dinâmica é um primeiro passo para desvendar o poder da análise de dados.  Use suas habilidades de investigação, colaboração e criatividade para descobrir insights valiosos! 
 
 
-![Untitled](materiais/img/netflix.png)
+![Untitled](material/img/netflix.png)
 
 ## Mergulhando nos Dados da Netflix: Uma Aventura de Análise! 🍿
 
