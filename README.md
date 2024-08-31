@@ -204,7 +204,7 @@ Em grupos, vocês irão explorar uma base de dados da Netflix e, como verdadeira
 Lembre-se: essa dinâmica é um primeiro passo para desvendar o poder da análise de dados.  Use suas habilidades de investigação, colaboração e criatividade para descobrir insights valiosos! 
 
 
-![Untitled](material/img/netflix.png)
+![Untitled](material/img/netflix.jpeg)
 
 ## Mergulhando nos Dados da Netflix: Uma Aventura de Análise! 🍿
 
