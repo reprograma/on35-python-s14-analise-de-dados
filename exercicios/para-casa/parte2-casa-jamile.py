@@ -27,7 +27,7 @@ df_produtos
 # %%
 # Qual o produto mais vendido?
 df_produtos['product_category_name'].unique()
-
+ 
 # %%
 df_produtos.info()
 
