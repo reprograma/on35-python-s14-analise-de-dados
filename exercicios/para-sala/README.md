@@ -44,6 +44,16 @@ Nesta atividade, vamos explorar este mapa e desvendar alguns mistérios sobre o 
 Lembre-se, esta aventura é apenas o começo. Use sua criatividade e curiosidade para explorar as informações da Netflix e descobrir novos insights! 
 
 
-
-
-
+Qual é o país com o maior número de acessos?
+Qual é a faixa etária das pessoas que usam o serviço premium?
+Qual é a duração média das assinaturas ativas?
+Como a idade dos usuários se relaciona com o tipo de dispositivo que utilizam?
+Qual é o gênero predominante entre os usuários?
+Como o tipo de plano se relaciona com o gênero dos usuários?
+Qual é a moda da idade dos usuários?
+Qual é a moda dos dispositivos utilizados?
+Como o gênero dos usuários se relaciona com a faixa etária?
+Quais são os países com mais assinantes?
+Quais são os países com menos assinantes?
+Qual é a data de pagamento média ou a frequência de pagamento dos usuários?
+Como o tipo de plano varia entre os diferentes países?
