@@ -1,4 +1,4 @@
-# Exercício de Casa 🏠 
+# Exercício de Casa 🏠
 
 ## 💠Parte 1 : Hora de praticar
 
