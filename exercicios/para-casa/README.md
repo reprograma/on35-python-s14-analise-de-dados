@@ -6,6 +6,7 @@ Agora é sua vez de colocar a mão na massa! Responda as seguintes perguntas sob
 
 1️⃣ **Quantos usuários utilizam a Netflix pelo Tablet?**
 
+
 2️⃣ **Qual é a representatividade (em %) do sistema operacional(device) mais utilizado para assistir Netflix?**
 
 3️⃣ **Crie visualizações que responda as seguintes perguntas:**
